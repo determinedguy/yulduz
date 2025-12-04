@@ -1,10 +1,12 @@
+[Anasayfa](.)
+
 ---
 permalink: /term-1/
 ---
 
 # 1. Dönem
 
-## PDF Kitabı
+## PDF Kitapları
 
 1. TDK101U - AKADEMİK TÜRKÇE 1
 2. [TUR213U - TÜRK DİLİNE GİRİŞ](pdf/TUR213U.pdf)
