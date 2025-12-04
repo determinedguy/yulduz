@@ -22,6 +22,8 @@
 - [Program Bilgisi Anasayfası](https://globalcampus.anadolu.edu.tr/mod/page/view.php?id=1002)
 - [Akademik Takvimi](https://globalcampus.anadolu.edu.tr/mod/page/view.php?id=1101)
 - [YTB Kayıt](https://globalcampus.anadolu.edu.tr/mod/page/view.php?id=1083)
+- [Sınavlar Hakkında](https://www.anadolu.edu.tr/acikogretim/sinavlar-ve-sorumluluk-uniteleri/sinavlar)
+- [Examination Rules](https://www.anadolu.edu.tr/en/open-education/examinations-2/examinations)
 
 ## Brosur
 
