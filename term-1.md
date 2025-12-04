@@ -2,8 +2,6 @@
 permalink: /term-1/
 ---
 
-[Anasayfa](.)
-
 # 1. Dönem
 
 ## PDF Kitapları
