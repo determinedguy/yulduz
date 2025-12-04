@@ -11,3 +11,6 @@
 - [AÖS Öğrenci Bilgi Sistemi](https://aosogrenci.anadolu.edu.tr/)
 - [ANADOLUM eKampüs Sistemi](https://ekampus.anadolu.edu.tr/)
 
+## Dönem Siteleri
+
+- [1. Dönem](term-1/)
