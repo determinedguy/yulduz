@@ -4,7 +4,10 @@ permalink: /term-1/
 
 # 1. Dönem
 
-## TDK101U - Akademik Türkçe 1
+## TDK101U - Akademik Türkçe I
+
+> Değerli Öğrencimiz,
+>"Akademik Türkçe I" dersi 2025-2026 Güz döneminde ilk kez verilmektedir. Bu nedenle önceki yıllara ait "Çıkmış Sınav Soruları" ve "Canlı Ders Kayıtları" bulunmamaktadır.
 
 > Şu ana kadar herhangi bir bilgi verilmedi.
 

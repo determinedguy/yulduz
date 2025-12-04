@@ -25,7 +25,7 @@
 - [Sınavlar Hakkında](https://www.anadolu.edu.tr/acikogretim/sinavlar-ve-sorumluluk-uniteleri/sinavlar)
 - [Examination Rules](https://www.anadolu.edu.tr/en/open-education/examinations-2/examinations)
 
-## Brosur
+## Broşür
 
 - [Türkçe](brosur/tdk-brosur-a5-tr.pdf)
 - [English](brosur/tdk-brosur-a5-en.pdf)
