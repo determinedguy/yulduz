@@ -12,6 +12,8 @@
 - [AÖS Kayıt](https://aoskayit.anadolu.edu.tr/)
 - [AÖS Öğrenci Bilgi Sistemi](https://aosogrenci.anadolu.edu.tr/)
 - [ANADOLUM eKampüs Sistemi](https://ekampus.anadolu.edu.tr/)
+- [AÖF Öğrencileri E-Posta](https://www.outlook.com/aof.anadolu.edu.tr)
+  > E-postanızı etkinleştirmek için [buraya tıklayın](https://anadolu.edu.tr/e-posta/islemler/kisisel-hesap-yonetimi).
 
 ## Dönem Siteleri
 
@@ -22,6 +24,10 @@
 - [Program Bilgisi Anasayfası](https://globalcampus.anadolu.edu.tr/mod/page/view.php?id=1002)
 - [Akademik Takvimi](https://globalcampus.anadolu.edu.tr/mod/page/view.php?id=1101)
 - [YTB Kayıt](https://globalcampus.anadolu.edu.tr/mod/page/view.php?id=1083)
+
+> Dersler ve sınavlar çevrimiçi öğrenme ortamında yapılacak olup, TDK Bölümü sınavları **çevrimiçi gözetimli** olarak uygulanacaktır.
+> (Lessons and examinations will be conducted in an online learning environment, and TDK Department examinations will be administered under **online supervision**.)
+
 - [Sınavlar Hakkında](https://www.anadolu.edu.tr/acikogretim/sinavlar-ve-sorumluluk-uniteleri/sinavlar)
 - [Examination Rules](https://www.anadolu.edu.tr/en/open-education/examinations-2/examinations)
 
