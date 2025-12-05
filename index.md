@@ -32,6 +32,12 @@
 - [Sınavlar Hakkında](https://www.anadolu.edu.tr/acikogretim/sinavlar-ve-sorumluluk-uniteleri/sinavlar)
 - [Examination Rules](https://www.anadolu.edu.tr/en/open-education/examinations-2/examinations)
 
+## Faydalı YouTube Kanalları
+
+- [Zekeriya Erkaya](https://www.youtube.com/@ZekeriyaErkaya)
+- [Açıköğretim](https://www.youtube.com/@a%C3%B6fbilgi)
+- [Açıköğretim Fakültesi (Aöf)](https://www.youtube.com/@acikogretimfakultesiaof)
+
 ## Broşür
 
 - [Türkçe](brosur/tdk-brosur-a5-tr.pdf)
