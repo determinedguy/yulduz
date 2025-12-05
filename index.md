@@ -12,6 +12,7 @@
 - [AÖS Kayıt](https://aoskayit.anadolu.edu.tr/)
 - [AÖS Öğrenci Bilgi Sistemi](https://aosogrenci.anadolu.edu.tr/)
 - [ANADOLUM eKampüs Sistemi](https://ekampus.anadolu.edu.tr/)
+- [Anadolu Üniversitesi Çevrimiçi Sınav Sistemi](https://esinav.anadolu.edu.tr/)
 - [AÖF Öğrencileri E-Posta](https://www.outlook.com/aof.anadolu.edu.tr)
   > E-postanızı etkinleştirmek için [buraya tıklayın](https://anadolu.edu.tr/e-posta/islemler/kisisel-hesap-yonetimi).
 
